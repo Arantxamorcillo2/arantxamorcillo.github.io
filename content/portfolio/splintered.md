@@ -14,7 +14,7 @@ galleryfolder = "img/portfolio/splintered"
 
 <!--more-->
 
-{{< gallery title="Splintered" >}}
+{{< gallery title="SS/15 Splintered" >}}
   {{% galleryimage galleryImage="splintered-01.jpg" carouselImage="carousel/splintered-carousel-01.jpg" width="793" height="1024" caption="Primera foto" %}}
 
   {{% galleryimage galleryImage="splintered-02.jpg" carouselImage="carousel/splintered-carousel-02.jpg" width="748" height="1024" caption="Splintered 2" %}}

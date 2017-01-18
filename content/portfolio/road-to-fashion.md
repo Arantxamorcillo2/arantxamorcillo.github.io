@@ -2,7 +2,7 @@
 date = "2017-01-16T18:52:52+01:00"
 title = "AW/16 Road to Fashion"
 showonlyimage = false
-image = "/img/portfolio/road-to-fashion/1.jpg"
+image = "/img/portfolio/road-to-fashion/road-to-fashion-card-345.jpg"
 draft = false
 
 weight = 2
@@ -18,13 +18,14 @@ After a year of exploration of the old *New World*, the artist returns with her 
 
 <!--more-->
 
-{{< gallery title="Road to Fashion" >}}
-  {{% galleryimage file="1.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
-  {{% galleryimage file="2.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
-  {{% galleryimage file="3.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
-  {{% galleryimage file="4.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
-  {{% galleryimage file="5.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
-  {{% galleryimage file="6.jpg" width="929" height="1394" caption="Pon algo aqui" %}}
+{{< gallery title="AW/16 Road to Fashion" >}}
+
+  {{% galleryimage galleryImage="1.jpg" carouselImage="carousel/1-carousel.jpg" width="929" height="1394" %}}
+  {{% galleryimage galleryImage="2.jpg" carouselImage="carousel/2-carousel.jpg" width="929" height="1394" %}}
+  {{% galleryimage galleryImage="3.jpg" carouselImage="carousel/3-carousel.jpg" width="929" height="1394" %}}
+  {{% galleryimage galleryImage="4.jpg" carouselImage="carousel/4-carousel.jpg" width="929" height="1394" %}}
+  {{% galleryimage galleryImage="5.jpg" carouselImage="carousel/5-carousel.jpg" width="929" height="1394" %}}
+  {{% galleryimage galleryImage="6.jpg" carouselImage="carousel/6-carousel.jpg" width="929" height="1394" %}}
 
 {{< /gallery >}}
 
