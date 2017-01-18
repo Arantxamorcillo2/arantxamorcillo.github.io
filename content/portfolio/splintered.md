@@ -62,8 +62,6 @@ galleryfolder = "img/portfolio/splintered"
 {{< /gallery >}}
 
 <br/>
-
-
 When it came to creating Arantxa Morcillo *"Splintered"* collection the research came in the form of white textures exploring the imperfection outside and inside the human body, through which she believed the result transmitted a experimental and deeply intimate aesthetic. In her collection she engaged into the fragility of surfaces, specifically concentrating on walls. Splints and fissures become an obsession to the designer, being reflected on the manipulation of the fabrics. Evolved into an infinite canvas, the fabrics, allow her to explore into a new creative direction, more primitive and more mature.
 
 Scents of tradition are appreciated on silhouettes and lines, influenced by the solemn figure of the Nazarenos. The controversial conical hoods and austere capes and robes are easily identifiable on every garment, and they cleverly counterbalance the rawness of the textures.
