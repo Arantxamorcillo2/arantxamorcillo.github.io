@@ -4,13 +4,14 @@ date = "2017-01-15T20:20:06+01:00"
 title = "SS/15 Splintered"
 image = "/img/portfolio/splintered/splintered-gallery-01.jpg"
 
-showonlyimage = false
+showonlyimage = true
 weight = 4
 
 galleryfolder = "img/portfolio/splintered"
 +++
 
-Text above the more tag will appear on both the card and as the page first paragraph.
+***“Allow your eyes to adapt, up close”***
+
 <!--more-->
 
 {{< gallery title="Splintered" >}}
@@ -26,12 +27,14 @@ Text above the more tag will appear on both the card and as the page first parag
 
 {{< /gallery >}}
 
+<br/>
 
-*Esto tambien*
 
-> Esto es una cita de otra fuente
+When it came to creating Arantxa Morcillo *"Splintered"* collection the research came in the form of white textures exploring the imperfection outside and inside the human body, through which she believed the result transmitted a experimental and deeply intimate aesthetic. In her collection she engaged into the fragility of surfaces, specifically concentrating on walls. Splints and fissures become an obsession to the designer, being reflected on the manipulation of the fabrics. Evolved into an infinite canvas, the fabrics, allow her to explore into a new creative direction, more primitive and more mature.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.Pellentesque pellentesque, nisl et hendrerit fermentum, dolor tellus convallis nulla, eu mattis lectus neque eget sem. Cras faucibus vitae odio sit amet elementum. Nunc posuere ut arcu vitae pellentesque. In hac habitasse platea dictumst. Curabitur consectetur magna cursus sagittis dignissim. Nam interdum lacinia lobortis. Suspendisse eu ex auctor, rutrum nulla in, iaculis est. Mauris bibendum luctus neque, vel sollicitudin metus scelerisque vitae. Duis aliquam, elit sed accumsan ullamcorper, felis massa sodales mi, eget mollis sem elit vel elit. Cras condimentum elementum diam vel eleifend. Suspendisse maximus magna purus. Praesent laoreet quam sit amet molestie pharetra. Nunc condimentum sem id orci iaculis, ac fermentum ex scelerisque.
+Scents of tradition are appreciated on silhouettes and lines, influenced by the solemn figure of the Nazarenos. The controversial conical hoods and austere capes and robes are easily identifiable on every garment, and they cleverly counterbalance the rawness of the textures.
+
+*"Splintered"* collection was shown at **West london College** fashion show on the 12th of June of 2014 as part of the graduation collections. Afterwards, it was introduced to the market for a limited period at Camden Collective, a pioneering space created by the Camden council for upcoming creative individuals to showcase their work.
 
 
 {{% galleryinit %}}
