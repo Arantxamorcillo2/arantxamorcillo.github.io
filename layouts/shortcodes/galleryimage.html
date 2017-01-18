@@ -4,11 +4,11 @@
 
 {{ $figurewidth := div (mul (int (.Get "width")) (.Site.Params.Gallery.height)) (int (.Get "height"))  }}
 <figure itemscope itemtype="http://schema.org/ImageObject" style="width:{{$figurewidth}}px">
-  <a href="{{ $galleryprefix }}/{{ $galleryfolder }}/{{ .Get "file" }}"
+  <a href="{{ $galleryprefix }}/{{ $galleryfolder }}/{{ .Get "galleryImage" }}"
     itemprop="contentUrl"
     data-width="{{ .Get "width" }}"
     data-height="{{ .Get "height" }}">
-      <img src="{{ $galleryprefix }}/{{ $galleryfolder }}/{{ .Get "file" }}" itemprop="thumbnail" alt="{{ .Get "caption" }}" />
+      <img src="{{ $galleryprefix }}/{{ $galleryfolder }}/{{ .Get "carouselImage" }}" itemprop="thumbnail" alt="{{ .Get "caption" }}" />
   </a>
 
 

@@ -8,4 +8,4 @@ draft = false
 weight = 1
 +++
 
-To be released on Vancouver Fashion Week AW/17
+Esto actualiza segun salvas. Hola!
