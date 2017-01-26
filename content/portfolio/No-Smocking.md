@@ -1,11 +1,14 @@
 +++
 date = "2017-01-18T18:33:47+01:00"
-title = "No Smocking"
+title = "AW/14 No Smocking"
 showonlyimage = false
 image ="/img/portfolio/no-smocking/no-smocking-gallery-1.jpg"
 draft = false
 
+
 galleryfolder = "img/portfolio/no-smocking"
+weight = 8
+
 
 +++
 
@@ -36,7 +39,7 @@ galleryfolder = "img/portfolio/no-smocking"
 
 {{< /gallery >}}
 
-
-No Smoking AW 2014 collection aim mainly to re-contextualize one of the most classic garments in the British history, the smock frock. Exaggerate sleeves mixing with great smocking attachments change the vision of this classic in its most contemporary way.
+<br/>
+"No Smoking" AW 2014 collection aim mainly to re-contextualize one of the most classic garments in the British history, the smock frock. Exaggerate sleeves mixing with great smocking attachments change the vision of this classic in its most contemporary way.
 
 {{% galleryinit %}}
