@@ -12,3 +12,5 @@ After six years in London she still kept a deeply Spanish heritage, that became 
 During January-February 2013, she worked with Conchita Perez designer in the development of her AW 2013 collection *“The Man Who Wanted To Be Kind”*.
 
 In 2014 she graduated in Fashion Design (BA), obtaining a **Distinction Award** by Heriot Watt University in collaboration with West London College for *“Splintered”*, a collection that explores the imperfection outside and inside the human body, transmitting a experimental and deeply intimate aesthetic.
+
+After Graduation, she worked at Somerset House as workshops assistant for two main exhibitions "Boro" and "Pick me up". Follow for an internship position at **Gareth Pugh** studio on July 2014 working on the development of <a href="https://www.notjustalabel.com/editorial/arantxa-morcillos-splintered-moodboard"> SS/14 collection <a/>.

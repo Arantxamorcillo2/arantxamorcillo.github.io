@@ -4,7 +4,7 @@ date = "2017-01-15T20:20:06+01:00"
 title = "Student years"
 image = "/img/portfolio/student-work/student-work-2.jpg"
 
-showonlyimage = true
+showonlyimage = false
 weight = 9
 
 galleryfolder = "img/portfolio/student-work"

@@ -10,7 +10,7 @@ weight = 7
 galleryfolder = "img/portfolio/hoist-your-heritage"
 +++
 
-***This inspiration which combines tradition is for a woman who dares to understand her heritage and is proud of it.***
+***The inspiration which combines tradition is for a woman who dares to understand her heritage and is proud of it.***
 
 
 <!--more-->
