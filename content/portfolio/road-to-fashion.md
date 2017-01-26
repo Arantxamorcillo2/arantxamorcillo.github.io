@@ -31,8 +31,8 @@ The colours of the earth, the humongous immensity of the Atacama desert, the cul
 
 After a year of exploration of the old *New World*, the artist returns with her most captivating collection yet. Part of the thematic series **"Road To Fashion"**, **"From El Bolsón to Chuquicamata"** captures the raw nature and living of the rural South American continent. In an ode to a different life soil, soul and survival are the elements combined to express the designers view of a different culture.
 
-The collection was presented on <a href="http://www.oxfordfashionstudio.com/previous-shows/london-aw16/">Oxford Fashion Studio LONDON // AW16</a> during **London Fashion week** at February 2015.
+The collection was presented on <a href="http://www.oxfordfashionstudio.com/previous-shows/london-aw16/">Oxford Fashion Studio LONDON // AW16</a> during **London Fashion week** at February 2016.
 
-{{< vimeo id="157128407" autoplay=1>}}
+
 
 {{% galleryinit %}}

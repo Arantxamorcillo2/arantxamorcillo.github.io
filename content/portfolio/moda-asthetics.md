@@ -42,4 +42,12 @@ Dress, trousers or jumpsui? The perfect piece for the stylish woman who wants to
 
 {{< /gallery >}}
 
+<br/>
+"Confidence" dress was created as part of **Moda Aesthetics** competition on Summer 2016.
+
+>"The one perfect dress that say you. A dress that makes a woman feel the most comfortable, radiant, and confident as a citizen of the challenging 21st century."
+
+After a study with different background women on what make the perfect dress, three main ideas stand out. *comfortable*, *elegant* and *confidence*. This dress is the reaction to these ideas. The main inspiration comes from the "new look" of Dior, a timeless style that breath elegance. Without compromising the essence of this look, the skirt evolve into trousers bringing with it a more comfortable garment. 
+
+
 {{% galleryinit %}}

@@ -7,8 +7,8 @@ weight = 3
 
 +++
 
-We had the pleasure to be part of Oxford Fshion Studio runway as part of London Fashion Week AW17
+We had the pleasure to be part of Oxford Fashion Studio runway as part of London Fashion Week AW16
 
 <!--more-->
 
-{{< vimeo 157128407 >}}
+{{< vimeo id="157128407?autoplay=1">}}
