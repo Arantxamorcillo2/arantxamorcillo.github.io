@@ -2,7 +2,7 @@
 draft = false
 date = "2017-01-15T20:20:06+01:00"
 title = "Student years"
-image = "/img/portfolio/student-work/student-work-2.jpg"
+image = "/img/portfolio/student-work/student-work-345.jpg"
 
 showonlyimage = false
 weight = 9

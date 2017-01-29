@@ -2,7 +2,7 @@
 date = "2017-01-18T18:33:47+01:00"
 title = "AW/14 No Smocking"
 showonlyimage = false
-image ="/img/portfolio/no-smocking/no-smocking-gallery-1.jpg"
+image ="/img/portfolio/no-smocking/no-smocking-345.jpg"
 draft = false
 
 
