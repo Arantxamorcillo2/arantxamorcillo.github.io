@@ -16,22 +16,22 @@ weight = 8
 
 {{< gallery title="AW/14 No Smocking" >}}
   {{% galleryimage galleryImage="no-smocking-gallery-1.jpg" carouselImage="carousel/no-smocking-gallery-1-carousel.jpg" width="900" height="1200"
-  caption="" copyrightHolder="Arantxa Morcillo" %}}
+  caption="No Smocking" copyrightHolder="Arantxa Morcillo" %}}
 
   {{% galleryimage galleryImage="no-smocking-gallery-2.jpg" carouselImage="carousel/no-smocking-gallery-2-carousel.jpg" width="900" height="1200"
-   caption="" copyrightHolder="Arantxa Morcillo" %}}
+   caption="No Smocking" copyrightHolder="Arantxa Morcillo" %}}
 
   {{% galleryimage galleryImage="no-smocking-gallery-3.jpg" carouselImage="carousel/no-smocking-gallery-3-carousel.jpg" width="900" height="1200"
-  caption="" copyrightHolder="Arantxa Morcillo" %}}
+  caption="No Smocking" copyrightHolder="Arantxa Morcillo" %}}
 
   {{% galleryimage galleryImage="no-smocking-gallery-4.jpg" carouselImage="carousel/no-smocking-gallery-4-carousel.jpg" width="900" height="1200"
-  caption="" copyrightHolder="Arantxa Morcillo" %}}
+  caption="No Smocking" copyrightHolder="Arantxa Morcillo" %}}
 
   {{% galleryimage galleryImage="no-smocking-gallery-5.jpg" carouselImage="carousel/no-smocking-gallery-5-carousel.jpg" width="900" height="1200"
   caption="" copyrightHolder="Arantxa Morcillo" %}}
 
   {{% galleryimage galleryImage="no-smocking-gallery-6.jpg" carouselImage="carousel/no-smocking-gallery-6-carousel.jpg" width="900" height="1200"
-  caption="" copyrightHolder="Arantxa Morcillo" %}}
+  caption="No Smocking" copyrightHolder="Arantxa Morcillo" %}}
 
 {{< /gallery >}}
 
