@@ -4,7 +4,7 @@ date = "2017-01-15T20:20:06+01:00"
 title = "SS/15 Splintered"
 image = "/img/portfolio/splintered/splintered-card-345.jpg"
 
-showonlyimage = true
+#showonlyimage = true
 weight = 4
 
 galleryfolder = "img/portfolio/splintered"

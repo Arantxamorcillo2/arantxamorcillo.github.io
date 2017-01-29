@@ -1,6 +1,6 @@
 +++
 title = "moda asthetics"
-showonlyimage = true
+#showonlyimage = true
 image = "/img/portfolio/moda-asthetics/moda-asthetics-card-345.jpg"
 draft = false
 date = "2017-01-17T22:06:22+01:00"

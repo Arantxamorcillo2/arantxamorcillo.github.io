@@ -1,8 +1,8 @@
 +++
 date = "2017-01-17T22:04:44+01:00"
-title = "Style street Stalker"
+title = "Style Street Stalker"
 showonlyimage = false
-image = "/img/portfolio/stalked/stalked-2.jpg"
+image = "/img/portfolio/style-street-stalker/stalked-345.jpg"
 draft = false
 
 weight = 12

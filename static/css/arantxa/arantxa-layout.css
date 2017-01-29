@@ -15,6 +15,11 @@ h1.hidden {
   margin: 20px;
 }
 
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Layout Portfolio pages BEGIN */
 
 .content-column-content {

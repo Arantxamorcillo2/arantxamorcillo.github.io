@@ -14,29 +14,29 @@ galleryfolder = "img/portfolio/student-work"
 <!--more-->
 
 {{< gallery title="SS/15 Splintered" >}}
-  {{% galleryimage galleryImage="student-work-1.jpg" carouselImage="carousel/student-work-1.jpg" width="793" height="1024" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="student-work-1.jpg" carouselImage="carousel/student-work-1-carousel.jpg" width="900" height="1200" caption="Primera foto" %}}
 
-  {{% galleryimage galleryImage="student-work-2.jpg" carouselImage="carousel/student-work-2.jpg" width="748" height="1024" caption="Splintered 2" %}}
+  {{% galleryimage galleryImage="student-work-2.jpg" carouselImage="carousel/student-work-2-carousel.jpg" width="900" height="1200" caption="Splintered 2" %}}
 
-  {{% galleryimage galleryImage="student-work-3.jpg" carouselImage="carousel/student-work-3.jpg" width="1024" height="683" caption="Splintered 3" %}}
+  {{% galleryimage galleryImage="student-work-3.jpg" carouselImage="carousel/student-work-3-carousel.jpg" width="900" height="1200" caption="Splintered 3" %}}
 
-  {{% galleryimage galleryImage="student-work-4.jpg" carouselImage="carousel/student-work-4.jpg" width="683" height="1024" caption="Splintered 4" %}}
+  {{% galleryimage galleryImage="student-work-4.jpg" carouselImage="carousel/student-work-4-carousel.jpg" width="900" height="1200" caption="Splintered 4" %}}
 
-  {{% galleryimage galleryImage="student-work-5.jpg" carouselImage="carousel/student-work-5.jpg" width="683" height="1024" caption="Splintered 5" %}}
+  {{% galleryimage galleryImage="student-work-5.jpg" carouselImage="carousel/student-work-5-carousel.jpg" width="900" height="1200" caption="Splintered 5" %}}
 
-  {{% galleryimage galleryImage="student-work-6.jpg" carouselImage="carousel/student-work-6.jpg" width="683" height="1024" caption="Splintered 6" %}}
+  {{% galleryimage galleryImage="student-work-6.jpg" carouselImage="carousel/student-work-6-carousel.jpg" width="900" height="1200" caption="Splintered 6" %}}
 
-  {{% galleryimage galleryImage="student-work-7.jpg" carouselImage="carousel/student-work-7.jpg" width="715" height="1024" caption="Splintered 7" %}}
+  {{% galleryimage galleryImage="student-work-7.jpg" carouselImage="carousel/student-work-7-carousel.jpg" width="795" height="1200" caption="Splintered 7" %}}
 
-  {{% galleryimage galleryImage="student-work-8.jpg" carouselImage="carousel/student-work-8.jpg" width="683" height="1024" caption="Splintered 8" %}}
+  {{% galleryimage galleryImage="student-work-8.jpg" carouselImage="carousel/student-work-8-carousel.jpg" width="795" height="1200" caption="Splintered 8" %}}
 
-  {{% galleryimage galleryImage="student-work-9.jpg" carouselImage="carousel/student-work-9.jpg" width="683" height="1024" caption="Splintered 9" %}}
+  {{% galleryimage galleryImage="student-work-9.jpg" carouselImage="carousel/student-work-9-carousel.jpg" width="795" height="1200" caption="Splintered 9" %}}
 
-  {{% galleryimage galleryImage="student-work-10.jpg" carouselImage="carousel/student-work-10.jpg" width="710" height="1024" caption="Splintered 10" %}}
+  {{% galleryimage galleryImage="student-work-10.jpg" carouselImage="carousel/student-work-10-carousel.jpg" width="795" height="1200" caption="Splintered 10" %}}
 
-  {{% galleryimage galleryImage="splintered-11.jpg" carouselImage="carousel/student-work-11.jpg" width="683" height="1024" caption="Splintered 11" %}}
+  {{% galleryimage galleryImage="student-work-11.jpg" carouselImage="carousel/student-work-11-carousel.jpg" width="795" height="1200" caption="Splintered 11" %}}
 
-  {{% galleryimage galleryImage="student-work-12.jpg" carouselImage="carousel/student-work--12.jpg" width="683" height="1024" caption="Splintered 12" %}}
+  {{% galleryimage galleryImage="student-work-12.jpg" carouselImage="carousel/student-work--12-carousel.jpg" width="795" height="1200" caption="Splintered 12" %}}
 
 {{< /gallery >}}
 
