@@ -36,7 +36,7 @@ galleryfolder = "img/portfolio/student-work"
 
   {{% galleryimage galleryImage="student-work-11.jpg" carouselImage="carousel/student-work-11-carousel.jpg" width="795" height="1200" caption="Splintered 11" %}}
 
-  {{% galleryimage galleryImage="student-work-12.jpg" carouselImage="carousel/student-work--12-carousel.jpg" width="795" height="1200" caption="Splintered 12" %}}
+  {{% galleryimage galleryImage="student-work-12.jpg" carouselImage="carousel/student-work-12-carousel.jpg" width="795" height="1200" caption="Splintered 12" %}}
 
 {{< /gallery >}}
 
