@@ -15,18 +15,18 @@ galleryfolder = "img/portfolio/hoist-your-heritage"
 
 <!--more-->
 
-{{< gallery title="SS/15 Splintered" >}}
-  {{% galleryimage galleryImage="hoist-your-heritage-1.jpg" carouselImage="carousel/hoist-your-heritage-1-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage 1" %}}
+{{< gallery title="Hoist your heritage" >}}
+  {{% galleryimage galleryImage="hoist-your-heritage-1.jpg" carouselImage="carousel/hoist-your-heritage-1-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
-  {{% galleryimage galleryImage="hoist-your-heritage-2.jpg" carouselImage="carousel/hoist-your-heritage-2-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage 2" %}}
+  {{% galleryimage galleryImage="hoist-your-heritage-2.jpg" carouselImage="carousel/hoist-your-heritage-2-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
-  {{% galleryimage galleryImage="hoist-your-heritage-3.jpg" carouselImage="carousel/hoist-your-heritage-3-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage 3" %}}
+  {{% galleryimage galleryImage="hoist-your-heritage-3.jpg" carouselImage="carousel/hoist-your-heritage-3-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
-  {{% galleryimage galleryImage="hoist-your-heritage-4.jpg" carouselImage="carousel/hoist-your-heritage-4-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage 4" %}}
+  {{% galleryimage galleryImage="hoist-your-heritage-4.jpg" carouselImage="carousel/hoist-your-heritage-4-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
   {{% galleryimage galleryImage="hoist-your-heritage-5.jpg" carouselImage="carousel/hoist-your-heritage-5-carousel.jpg" width="1600" height="1200" caption="SS/14 Hoist your heritage 5" %}}
 
-  {{% galleryimage galleryImage="hoist-your-heritage-6.jpg" carouselImage="carousel/hoist-your-heritage-6-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage 6" %}}
+  {{% galleryimage galleryImage="hoist-your-heritage-6.jpg" carouselImage="carousel/hoist-your-heritage-6-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
 
 {{< /gallery >}}

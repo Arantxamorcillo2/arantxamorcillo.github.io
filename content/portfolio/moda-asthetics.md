@@ -16,29 +16,29 @@ Dress, trousers or jumpsui? The perfect piece for the stylish woman who wants to
 
 {{< gallery title="Moda Asthetics" >}}
 
-  {{% galleryimage galleryImage="ma-trousers.jpg" carouselImage="carousel/ma-trousers-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-trousers.jpg" carouselImage="carousel/ma-trousers-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-back-details.jpg" carouselImage="carousel/ma-back-details-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-back-details.jpg" carouselImage="carousel/ma-back-details-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-back-trouser.jpg" carouselImage="carousel/ma-back-trouser-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-back-trouser.jpg" carouselImage="carousel/ma-back-trouser-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-back.jpg" carouselImage="carousel/ma-back-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-back.jpg" carouselImage="carousel/ma-back-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-details-back.jpg" carouselImage="carousel/ma-details-back-carousel.jpg" width="1600" height="1066" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-details-back.jpg" carouselImage="carousel/ma-details-back-carousel.jpg" width="1600" height="1066" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-details-screw.jpg" carouselImage="carousel/ma-details-screw-carousel.jpg" width="1600" height="1066" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-details-screw.jpg" carouselImage="carousel/ma-details-screw-carousel.jpg" width="1600" height="1066" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-front-pocket.jpg" carouselImage="carousel/ma-front-pocket-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-front-pocket.jpg" carouselImage="carousel/ma-front-pocket-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-front.jpg" carouselImage="carousel/ma-front-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-front.jpg" carouselImage="carousel/ma-front-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-fullback.jpg" carouselImage="carousel/ma-fullback-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-fullback.jpg" carouselImage="carousel/ma-fullback-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-lace.jpg" carouselImage="carousel/ma-lace-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-lace.jpg" carouselImage="carousel/ma-lace-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-pocket.jpg" carouselImage="carousel/ma-pocket-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-pocket.jpg" carouselImage="carousel/ma-pocket-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
-  {{% galleryimage galleryImage="ma-side.jpg" carouselImage="carousel/ma-side-carousel.jpg" width="1600" height="2400" caption="Primera foto" %}}
+  {{% galleryimage galleryImage="ma-side.jpg" carouselImage="carousel/ma-side-carousel.jpg" width="1600" height="2400" caption="Moda Asthetics Confidence dress" %}}
 
 {{< /gallery >}}
 
