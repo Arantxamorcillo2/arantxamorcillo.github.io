@@ -6,7 +6,9 @@
       <!-- <div class="content-column-content"> -->
          <h1>{{ .Title }}</h1>
          {{ .Content }}
-         {{ template "_internal/disqus.html" . }}
+         {{ if (not .Params.disableDisqus) }}
+            {{ template "_internal/disqus.html" . }}
+         {{ end }}
       <!-- </div> -->
     <!-- </div> -->
   </div>

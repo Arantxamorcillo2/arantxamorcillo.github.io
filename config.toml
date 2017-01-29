@@ -12,8 +12,8 @@ googleAnalytics = "UA-55581628-1"
   description = "Arantxa Morchillo fashion designer profile website"
   copyright = "&copy;2016 Arantxa Morcillo"
   sidebarAbout = [
-    "I'm not telling you it's going to be easy.",
-    "I'm telling you it's going to be worth it!!!!!"
+    "Madrid born, London enlightened designer.",
+    "Creating disruptive wearable designer fashion around the globe since 2014."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -41,10 +41,6 @@ googleAnalytics = "UA-55581628-1"
   [[params.navlinks]]
   name = "The Designer"
   url = "the-designer/"
-
-  [[params.navlinks]]
-  name = "Portfolio (Print)"
-  url = "portfolio-print/"
 
   [[params.navlinks]]
   name = "Contact"
