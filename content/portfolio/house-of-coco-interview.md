@@ -13,7 +13,7 @@ weight = 11
 
 ***Designer Spotlight: Arantxa Morcillo***
 <!--more-->
-{{< figure src="/img/portfolio/house-of-coco/house-of-coco-interview.jpg"  >}}
-
 
 Read the full interview at  <a href="https://www.notjustalabel.com/editorial/arantxa-morcillos-splintered-moodboard"> House of Coco <a/>
+
+{{< figure src="/img/portfolio/house-of-coco/house-of-coco-interview.jpg"  >}}
