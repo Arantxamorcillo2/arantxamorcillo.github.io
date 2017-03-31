@@ -5,7 +5,7 @@ title = "AW/16 Road to Fashion"
 image = "/img/portfolio/road-to-fashion/road-to-fashion-card-345.jpg"
 draft = false
 
-weight = 2
+weight = 5
 
 galleryfolder = "img/portfolio/road-to-fashion"
 +++

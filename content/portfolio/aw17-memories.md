@@ -5,7 +5,7 @@ showonlyimage = false
 image = "/img/portfolio/memories/front-345.jpg"
 draft = false
 
-weight = 1
+weight = 3
 
 
 +++
@@ -14,6 +14,8 @@ weight = 1
 
 <!--more-->
 {{< figure src="/img/portfolio/memories/front.jpg"  >}}
+
+
 
 
 In her yet most personal work, the artist bring us back a collection inspired by the revelation of a series of antique photos. These tell the story of a life, the story of her heritage and the story of her grandparents.  Diving into the black and white pictures the essence of her elders' style and personality blossomed inspiring  beautiful lines; re-memorizing the late 50's  feminine silhouettes united with the toughness of the classical man suit, as in the most pure marriage.
