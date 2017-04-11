@@ -2,6 +2,7 @@
 date = "2017-01-17T22:26:01+01:00"
 title = "OFS AW/16 Runway"
 image = "img/ofs-aw16-venue.jpg"
+draft = true
 
 weight = 6
 
