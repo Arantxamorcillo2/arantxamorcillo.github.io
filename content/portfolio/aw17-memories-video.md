@@ -2,7 +2,7 @@
 draft = false
 date = "2017-01-15T20:20:06+01:00"
 title = "Memories AW17 Fashion Show Experience"
-image = "/img/portfolio/splintered/memories-video-card-345.jpg"
+image="/img/portfolio/memories-runway/memories-video-card-345.jpg"
 
 #showonlyimage = true
 weight = 1

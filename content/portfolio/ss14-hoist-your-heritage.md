@@ -15,7 +15,7 @@ galleryfolder = "img/portfolio/hoist-your-heritage"
 
 <!--more-->
 
-{{< gallery title="Hoist your heritage" >}}
+{{< gallery title="SS/14 Hoist your heritage" >}}
   {{% galleryimage galleryImage="hoist-your-heritage-1.jpg" carouselImage="carousel/hoist-your-heritage-1-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
 
   {{% galleryimage galleryImage="hoist-your-heritage-2.jpg" carouselImage="carousel/hoist-your-heritage-2-carousel.jpg" width="900" height="1200" caption="SS/14 Hoist your heritage" %}}
