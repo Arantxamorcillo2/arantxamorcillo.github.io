@@ -5,7 +5,7 @@ title = "SS/14 Hoist your heritage"
 image = "/img/portfolio/hoist-your-heritage/hoist-your-heritage-345.jpg"
 
 showonlyimage = false
-weight = 7
+weight = 9
 
 galleryfolder = "img/portfolio/hoist-your-heritage"
 +++

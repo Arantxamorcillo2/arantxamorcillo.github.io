@@ -5,7 +5,7 @@ showonlyimage = false
 image = "/img/portfolio/vogue/vogue-345.jpg"
 draft = false
 
-weight = 10
+weight = 12
 
 
 

@@ -1,11 +1,11 @@
 +++
 date = "2017-01-16T18:52:52+01:00"
 title = "AW/16 Road to Fashion"
-#showonlyimage = true
 image = "/img/portfolio/road-to-fashion/road-to-fashion-card-345.jpg"
 draft = true
 
-weight = 5
+#showonlyimage = true
+weight = 7
 
 galleryfolder = "img/portfolio/road-to-fashion"
 +++

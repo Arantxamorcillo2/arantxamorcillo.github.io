@@ -5,7 +5,7 @@ showonlyimage = false
 image = "/img/portfolio/memories/front-345.jpg"
 draft = false
 
-weight = 3
+weight = 4
 
 
 +++

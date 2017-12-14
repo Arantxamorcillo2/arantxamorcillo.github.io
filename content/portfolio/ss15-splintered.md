@@ -5,7 +5,9 @@ title = "SS/15 Splintered"
 image = "/img/portfolio/splintered/splintered-card-345.jpg"
 
 #showonlyimage = true
-weight = 6
+weight = 8
+
+
 
 galleryfolder = "img/portfolio/splintered"
 +++

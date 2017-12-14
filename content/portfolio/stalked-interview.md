@@ -5,7 +5,7 @@ showonlyimage = false
 image = "/img/portfolio/style-street-stalker/stalked-345.jpg"
 draft = false
 
-weight = 12
+weight = 13
 
 
 

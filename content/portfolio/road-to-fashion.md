@@ -5,7 +5,7 @@ showonlyimage = true
 image = "/img/portfolio/road-to-fashion/road-to-fashion-card-345.jpg"
 draft = false
 
-weight = 4
+weight = 6
 
 galleryfolder = "img/portfolio/road-to-fashion"
 +++

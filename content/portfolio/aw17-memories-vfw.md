@@ -5,7 +5,7 @@ title = "Memories AW17 @ Vancouver Fashion week"
 image = "/img/portfolio/memories-runway/memories-runway-card-345.jpg"
 
 #showonlyimage = true
-weight = 2
+weight = 3
 
 
 

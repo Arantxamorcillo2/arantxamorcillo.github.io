@@ -1,16 +1,16 @@
 +++
 title = "moda asthetics"
-#showonlyimage = true
 image = "/img/portfolio/moda-asthetics/moda-asthetics-card-345.jpg"
 draft = false
 date = "2017-01-17T22:06:22+01:00"
 
-weight = 4
+#showonlyimage = true
+weight = 5
 
 galleryfolder = "img/portfolio/moda-asthetics"
 +++
 
-Dress, trousers or jumpsui? The perfect piece for the stylish woman who wants to be comfortable.
+Dress, trousers or jumpsuit? The perfect piece for the stylish woman who wants to be comfortable.
 
 <!--more-->
 

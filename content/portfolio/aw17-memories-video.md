@@ -5,7 +5,7 @@ title = "Memories AW17 Fashion Show Experience"
 image="/img/portfolio/memories-runway/memories-video-card-345.jpg"
 
 #showonlyimage = true
-weight = 1
+weight = 2
 
 galleryfolder = "img/portfolio/memories-runway"
 +++

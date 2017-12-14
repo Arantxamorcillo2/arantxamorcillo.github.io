@@ -5,7 +5,7 @@ showonlyimage = false
 image = "/img/portfolio/house-of-coco/house-of-coco-345.jpg"
 draft = false
 
-weight = 11
+weight = 14
 
 
 

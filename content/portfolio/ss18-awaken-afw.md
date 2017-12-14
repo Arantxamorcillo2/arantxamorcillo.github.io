@@ -5,7 +5,7 @@ title = "Awaken SS18 @ Alicante Fashion Week"
 image = "/img/portfolio/awaken-runway/awaken-runway-card-345.jpg"
 
 #showonlyimage = true
-weight = 2
+weight = 1
 
 
 

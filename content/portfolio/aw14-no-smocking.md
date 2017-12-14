@@ -7,7 +7,7 @@ draft = false
 
 
 galleryfolder = "img/portfolio/no-smocking"
-weight = 8
+weight = 10
 
 
 +++

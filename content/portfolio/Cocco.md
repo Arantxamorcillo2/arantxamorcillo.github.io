@@ -3,7 +3,7 @@ date = "2017-01-17T22:04:44+01:00"
 title = "House of Coco: Designer Spotlight"
 showonlyimage = false
 image = "/img/portfolio/house-of-coco/house-of-coco.jpg"
-draft = false
+draft = true
 
 weight = 12
 

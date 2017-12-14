@@ -5,7 +5,7 @@ title = "Student years"
 image = "/img/portfolio/student-work/student-work-345.jpg"
 
 showonlyimage = false
-weight = 9
+weight = 11
 
 galleryfolder = "img/portfolio/student-work"
 +++
