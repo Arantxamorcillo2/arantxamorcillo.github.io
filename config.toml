@@ -43,6 +43,14 @@ googleAnalytics = "UA-55581628-1"
   url = "the-designer/"
 
   [[params.navlinks]]
+  name = "Our Commitment"
+  url = "our-commitment/"
+
+  [[params.navlinks]]
+  name = "Boutique"
+  url = "https://boutique.arantxamorcillo.com/"
+
+  [[params.navlinks]]
   name = "Contact"
   url = "contact/"
 
