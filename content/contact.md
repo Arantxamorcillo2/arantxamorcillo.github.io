@@ -10,7 +10,7 @@ title = "Contact"
 
 Showroom:
 
-Visista nuestro muestrario de temporada
+Visita nuestro muestrario de temporada
 
 L'Showroom   Agencia   de   Comunicación
 
